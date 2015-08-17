@@ -1,0 +1,49 @@
+# traduccions pel ResourceBundle
+# mirar que es: http://www.zaval.org/products/jrc-editor/
+#
+
+test=soc un test del RB
+pestanyes.global.estatglobal=global status
+pestanyes.global.processlist=processlist
+pestanyes.global.engines=Engines
+pestanyes.global.schemas=Schemas
+pestanyes.global.tables=Tables
+
+pestanyes.global.engines.botogoahead=This might take a while!
+pestanyes.global.engines.description=:)
+
+pestanyes.global.tablestatuslist.schemas=Schemas
+pestanyes.global.tablestatuslist.tables=Tables
+
+pestanyes.global.processlist.rtqueries=realtime queries
+pestanyes.global.processlist.topqueries=top queries
+pestanyes.global.processlist.killemall=Kill 'em ALL
+
+pestanyes.global.checklist.installation=installation checklist
+pestanyes.global.checklist.arreglar=Autosolve
+pestanyes.global.checklist.descartar=Discard
+pestanyes.global.checklist.nodescription=DESCRIPTION NOT AVAILABLE
+
+pestanyes.global.checklist.innodb_file_per_table=Enable innodb_file_per_table
+pestanyes.global.checklist.innodb_file_per_table.desc=Si no ets l'enric ramos, habilita-ho\nsoc una prova de intro
+
+pestanyes.global.checklist.delete_test_schema=Delete test schema
+
+pestanyes.global.checklist.have_query_cache=Enable query cache
+pestanyes.global.checklist.invalid_db_users=Delete invalid users
+pestanyes.global.checklist.insecure_db_users=Disable old passwords (MySQL 4.0)
+pestanyes.global.checklist.wo_password_db_users=Delete users without password
+
+pestanyes.global.checklist.separador.slave=slave checklist
+pestanyes.global.checklist.separador.users=DB users checklist
+pestanyes.global.checklist.separador.engines=MySQL Engines
+
+pestanyes.global.checklist.engines.archive=Archive
+pestanyes.global.checklist.engines.innodb=InnoDB
+pestanyes.global.checklist.engines.innodb.desc=No cal tindre InnoDB si no tens taules InnoDBs
+pestanyes.global.checklist.engines.myisam=MyISAM - ISAM - WTF!?!?!?!
+pestanyes.global.checklist.engines.csv=CSV
+pestanyes.global.checklist.engines.federated=Federeted
+pestanyes.global.checklist.engines.blackhole=Blackhole
+
+pestanyes.global.checklist.slave.slave_in_readonly=Slave in readonly mode

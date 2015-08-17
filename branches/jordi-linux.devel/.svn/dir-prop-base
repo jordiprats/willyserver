@@ -1,0 +1,10 @@
+K 14
+subclipse:tags
+V 46
+75,branches,/branches,branch
+64,tags,/tags,tag
+K 13
+svn:mergeinfo
+V 26
+/branches/jordidevel:66-76
+END

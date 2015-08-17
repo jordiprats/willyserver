@@ -1,0 +1,13 @@
+K 14
+subclipse:tags
+V 46
+75,branches,/branches,branch
+64,tags,/tags,tag
+K 13
+svn:mergeinfo
+V 117
+/branches/jordi-linux.devel:78-102
+/branches/jordi-linux.devel/src:78-119
+/branches/jordidevel:66-76
+/trunk/src:61-77
+END

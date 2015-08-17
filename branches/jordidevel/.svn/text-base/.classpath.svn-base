@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="res/doc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.osgi_3.8.0.v20120529-1548.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.osgi_3.8.0.v20120529-1548.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.core.commands_3.6.1.v20120521-2329.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.core.commands_3.6.1.v20120521-2329.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.core.runtime_3.8.0.v20120521-2346.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.core.runtime_3.8.0.v20120521-2346.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.text_3.5.200.v20120523-1310.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.text_3.5.200.v20120523-1310.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.100.0.v4233d.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.swt.win32.win32.x86_64_3.100.0.v4233d.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.jface_3.8.0.v20120521-2329.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.jface_3.8.0.v20120521-2329.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.jface.text_3.8.0.v20120531-0600.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.jface.text_3.8.0.v20120531-0600.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.ui.workbench_3.103.0.v20120530-1824.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.ui.workbench_3.103.0.v20120530-1824.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/com.ibm.icu_4.4.2.v20110823.jar" sourcepath="C:/Program Files/eclipse/plugins/com.ibm.icu_4.4.2.v20110823.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120521-2329.jar" sourcepath="C:/Program Files/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120521-2329.jar"/>
+	<classpathentry kind="lib" path="jars/org.csstudio.swt.widgets_2.0.1.201207141617.jar"/>
+	<classpathentry kind="lib" path="jars/org.csstudio.swt.xygraph_2.0.1.201207141617.jar"/>
+	<classpathentry kind="lib" path="jars/mysql-connector-java-5.1.21-bin.jar"/>
+	<classpathentry kind="lib" path="jars/org.eclipse.draw2d_3.8.0.201206112118.jar"/>
+	<classpathentry kind="lib" path="jars/org.eclipse.draw2d.doc.isv_3.8.0.201206112118.jar"/>
+	<classpathentry kind="lib" path="jars/org.eclipse.draw2d.source_3.8.0.201206112118.jar"/>
+	<classpathentry kind="lib" path="jars/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="jars/jfreechart-1.0.14-swt.jar"/>
+	<classpathentry kind="lib" path="jars/jfreechart-1.0.14.jar"/>
+	<classpathentry kind="lib" path="jars/jsch-0.1.48.jar"/>
+	<classpathentry kind="lib" path="jars/swing2swt.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
